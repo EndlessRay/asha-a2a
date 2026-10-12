@@ -1,3 +1,5 @@
+> **Moved.** This repository now lives in [github.com/EndlessRay/asha-benchmarks](https://github.com/EndlessRay/asha-benchmarks/tree/main/a2a/asha) under a2a/asha/, with its full commit history. This copy is archived read-only so published links keep working.
+
 # Asha: Medical Intelligence by DNAi Systems
 
 **Evidence-grounded medical AI, accessible via the [A2A protocol](https://a2aproject.github.io/A2A/).**
